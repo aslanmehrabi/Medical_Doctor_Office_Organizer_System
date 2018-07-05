@@ -1,2 +1,4 @@
 # Medical_Doctor_Office_Organizer_System
-A Software to organize a Medical Doctor (Physician) Office
+A Software to organize Booking system of a Medical Doctor (Physician) Office 
+
+
